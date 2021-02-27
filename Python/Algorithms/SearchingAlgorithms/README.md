@@ -1,6 +1,7 @@
 ## 1. Sequential/Linear Search
 Sequentially checks each element of the list until a match is found or whole list has been searched. 
-[Complexity Analysis]- O(n)
+
+Complexity- O(n)
 
 ## 2. Interval Search
 
