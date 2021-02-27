@@ -1,2 +1,2 @@
-# Sequentialy/Linear Search
+## Sequentialy/Linear Search
     Sequentially checks each element of the list until a match is found or whole list has been searched. ( Complexity - O(n) )
